@@ -24,5 +24,5 @@ Good reading/contributing!
 
 ### Index
 #### topic-career-advice
--!link[contractor-c2h-employee]
+[contractor-c2h-employee](https://github.com/abelgoodwin1988/denver-devs_common-topics/blob/master/channels/topic-career-advice/contractor-c2h-employee.md)
 
