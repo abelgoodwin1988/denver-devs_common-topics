@@ -1,12 +1,14 @@
-#Contractor vs C2H vs Employee
-##topic-career-advice
-###Brief
+# Contractor vs C2H vs Employee
+
+## topic-career-advice
+
+### Brief
 ---
 Present information about each classification to help you make a decision about which path may be best for you.
 
-###Last updated: 2017/11/13
+### Last updated: 2017/11/13
 ---
-###Introduction
+### Introduction
 ---
 This is not official tax guidance and should not be taken as such. The intent is to present information about each different employment relationship type which are common in tech industry. The reader should do their own research and come to their own conclusions about the affects of each option.
 
@@ -14,7 +16,7 @@ It's my hope that this write up with present you with information that will help
 
 ## Content
 ---
-####Definitions
+#### Definitions
 <dl>
     <dt>Contractor</dt>
     <dd>Often referred to as 1099, the tax form which is issued for claiming income on a personal tax return</dd>
@@ -26,14 +28,14 @@ It's my hope that this write up with present you with information that will help
     <dd>Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general. [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)</dd>
 </dl>
 
-####Pros-Cons
+#### Pros-Cons
 #### [4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html)[5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 |             | Contractor      | Contract-to-Hire | Employee    |    
 |------------:|:---------------:|:----------------:|:------------:
 | Pros |    |    |    |
 | Cons |    |    |    |
 
-####Tax Implications
+#### Tax Implications
 #### [6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
@@ -42,9 +44,9 @@ It's my hope that this write up with present you with information that will help
 |Deductions  |    |    |    |
 |Credits |    |    |    |
 
-####Examples
+#### Examples
 
-####Sources
+#### Sources
 ---
 1. [Contractor Defined (Wikipedia)](https://en.wikipedia.org/wiki/Contractor)
 2. [C2H Defined (Random Blog)](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
