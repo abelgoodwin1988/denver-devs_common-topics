@@ -33,15 +33,15 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
 
 #### Pros-Cons
-[4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 
 |             | Contractor      | Contract-to-Hire | Employee    |    
 |------------:|:---------------:|:----------------:|:------------:
 | Pros |    |    |    |
 | Cons |    |    |    |
 
+[4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+
 #### Tax Implications
-[6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
@@ -49,6 +49,8 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 |Tax Form |    |    |    |
 |Deductions  |    |    |    |
 |Credits |    |    |    |
+
+[6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 
 #### Examples
 
