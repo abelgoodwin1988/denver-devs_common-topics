@@ -3,19 +3,16 @@
 ## topic-career-advice
 
 ### Brief
----
 Present information about each classification to help you make a decision about which path may be best for you.
 
 ### Last updated: 2017/11/13
----
+
 ### Introduction
----
 This is not official tax guidance and should not be taken as such. The intent is to present information about each different employment relationship type which are common in tech industry. The reader should do their own research and come to their own conclusions about the affects of each option.
 
 It's my hope that this write up with present you with information that will help you make a decision about which types of employment will best suit your situation, needs and wants. With that said, we simply wont be able to cover every topic here that is sure to arise; please use disgression and find the option that works best for you with your own research.
 
 ## Content
----
 #### Definitions
 <dl>
     <dt>Contractor</dt>
@@ -47,7 +44,6 @@ It's my hope that this write up with present you with information that will help
 #### Examples
 
 #### Sources
----
 1. [Contractor Defined (Wikipedia)](https://en.wikipedia.org/wiki/Contractor)
 2. [C2H Defined (Random Blog)](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
 3. [SHRM Employee Defined](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
