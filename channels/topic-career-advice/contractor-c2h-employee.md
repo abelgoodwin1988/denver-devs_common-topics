@@ -17,16 +17,20 @@ It's my hope that this write up with present you with information that will help
 <dl>
     <dt>Contractor</dt>
     <dd>Often referred to as 1099, the tax form which is issued for claiming income on a personal tax return</dd>
-    <dd>A contractor is a person or company that performs work on a contract basis. [1](https://en.wikipedia.org/wiki/Contractor)</dd>
+    <dd>A contractor is a person or company that performs work on a contract basis. </dd>
+    [1](https://en.wikipedia.org/wiki/Contractor)
     <dt>Contract to Hire</dt>
-    <dd>Contract-to-Hire agreements outline a set length of time a contractor will work for the employer. At the end of that set period, the employer decides if the contractor will be hired as a permanent employee or dismiss the contractor. [2](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)</dd>
+    <dd>Contract-to-Hire agreements outline a set length of time a contractor will work for the employer. At the end of that set period, the employer decides if the contractor will be hired as a permanent employee or dismiss the contractor. </dd>
+    [2](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
     <dt>Full Time Employee</dt>
     <dd>Other Names: Referred to as Direct Hire by recruiters, or W2</dd>
-    <dd>Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general. [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)</dd>
+    <dd>Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general. </dd>
+    [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
 </dl>
 
 #### Pros-Cons
 [4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+
 |             | Contractor      | Contract-to-Hire | Employee    |    
 |------------:|:---------------:|:----------------:|:------------:
 | Pros |    |    |    |
@@ -34,6 +38,7 @@ It's my hope that this write up with present you with information that will help
 
 #### Tax Implications
 [6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
 |Tax Formula?  |    |    |    |
