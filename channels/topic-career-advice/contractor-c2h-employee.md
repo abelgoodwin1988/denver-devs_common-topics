@@ -3,7 +3,7 @@
 *#topic-career-advice*
 
 ### Brief
-Present information about each classification to help you make a decision about which path may be best for you.
+Present information about each employment-type classification to help you make a decision about which path may be best for you.
 
 ### Last updated: 2017/11/13
 
