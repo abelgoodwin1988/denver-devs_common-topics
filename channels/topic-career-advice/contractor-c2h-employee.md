@@ -18,6 +18,7 @@ It's my hope that this write up with present you with information that will help
 *Contractor*
 
 Often referred to as 1099, the tax form which is issued for claiming income on a personal tax return
+
 A contractor is a person or company that performs work on a contract basis. 
 [1](https://en.wikipedia.org/wiki/Contractor)
 
@@ -29,6 +30,7 @@ Contract-to-Hire agreements outline a set length of time a contractor will work 
 *Full Time Employee*
 
 Other Names: Referred to as Direct Hire by recruiters, or W2
+
 Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general. 
 [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
 
