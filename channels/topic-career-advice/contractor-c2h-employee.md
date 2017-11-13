@@ -26,14 +26,14 @@ It's my hope that this write up with present you with information that will help
 </dl>
 
 #### Pros-Cons
-#### [4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html)[5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+[4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 |             | Contractor      | Contract-to-Hire | Employee    |    
 |------------:|:---------------:|:----------------:|:------------:
 | Pros |    |    |    |
 | Cons |    |    |    |
 
 #### Tax Implications
-#### [6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+[6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
 |Tax Formula?  |    |    |    |
